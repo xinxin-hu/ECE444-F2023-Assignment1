@@ -1,2 +1,2 @@
-# ECE444-F2023-Assignment1
+# Cynthia Hu
 ECE444 assignment 1

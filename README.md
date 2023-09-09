@@ -6,3 +6,6 @@ commit window of GitKraken
 after commit changes displayed on main branch
 ![Alt text](<after commit snapshot.PNG>)
 
+the output of git merge command
+![Alt text](<output of git merge.PNG>)
+

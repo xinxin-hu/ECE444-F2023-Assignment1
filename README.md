@@ -11,6 +11,10 @@ after commit changes displayed on main branch
 the output of git merge command
 ![Alt text](<output of git merge.PNG>)
 
-### Acitivity 3:
+### Activity 3:
 successful merge after resolving the conflict
 ![Alt text](<merge after resolving conflict.PNG>)
+
+### Activity 4:
+commit and push unit tests to main branch
+![Alt text](<unit test commits.PNG>)

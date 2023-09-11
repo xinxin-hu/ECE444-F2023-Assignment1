@@ -18,3 +18,16 @@ successful merge after resolving the conflict
 ### Activity 4:
 commit and push unit tests to main branch
 ![Alt text](<unit test commits.PNG>)
+
+### Activity 5:
+git rebase starts
+![Alt text](<git rebase starts.PNG>)
+
+successfully rebased develop branch with rebase branch
+![Alt text](<successful rebase.PNG>)
+
+log after rebase commits on develop
+![Alt text](<log after rebase commits on develop.PNG>)
+
+use rebase to modify commits order
+![Alt text](<use rebase to modify order.PNG>)

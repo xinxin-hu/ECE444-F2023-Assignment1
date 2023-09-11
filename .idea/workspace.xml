@@ -17,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Python Unit Test" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -54,8 +54,10 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
+
 </component>
   <component name="RunManager" selected="Python.helloworld">
+</component>
   <component name="RunManager" selected="Python.commits">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="ECE444-F2023-Assignment1" />

@@ -7,6 +7,7 @@
     <list default="true" id="c11d7885-e793-49e5-867f-bd74ecad5b10" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/helloworld.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/commits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "rebase",
+    "git-widget-placeholder": "Rebasing develop",
     "last_opened_file_path": "E:/fourth_year/ECE444/ECE444-F2023-Assignment1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",

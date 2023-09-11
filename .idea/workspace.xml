@@ -36,6 +36,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
 
+
   <component name="PropertiesComponent">
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -53,6 +54,7 @@
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
+  }
   </component>
   <component name="RunManager" selected="Python.helloworld">
   </component>
@@ -157,6 +159,7 @@
       <workItem from="1694355093845" duration="11708000" />
       <workItem from="1694393821047" duration="1263000" />
       <workItem from="1694439872425" duration="748000" />
+
     </task>
     <servers />
   </component>

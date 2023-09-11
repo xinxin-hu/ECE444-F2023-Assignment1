@@ -2,4 +2,3 @@
 print('Hello, world! Cynthia has studied in UofT for three years')
 print('add commit c1 to rebase branch')
 print('add commit c2 to rebase branch')
-

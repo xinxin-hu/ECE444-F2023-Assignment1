@@ -35,14 +35,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-
   <component name="PropertiesComponent">
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Rebasing develop",
-    "git-widget-placeholder": "main",
     "git-widget-placeholder": "rebase",
     "last_opened_file_path": "E:/fourth_year/ECE444/ECE444-F2023-Assignment1",
     "node.js.detected.package.eslint": "true",
@@ -55,7 +52,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
-  </component>
+</component>
   <component name="RunManager" selected="Python.helloworld">
   <component name="RunManager" selected="Python.commits">
     <configuration default="true" type="JetRunConfigurationType">

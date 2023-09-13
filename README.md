@@ -30,4 +30,4 @@ log after rebase commits on develop
 ![Alt text](<log after rebase commits on develop.PNG>)
 
 use rebase to modify commits order
-![Alt text](<use rebase to modify order.PNG>)
+![Alt text](<userebase to modify order2.png>)
